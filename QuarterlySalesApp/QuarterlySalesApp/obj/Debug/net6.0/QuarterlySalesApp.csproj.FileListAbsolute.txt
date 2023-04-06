@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\QuarterlySalesApp13\QuarterlySalesApp\QuarterlySalesApp\obj\Debug\net6.0\QuarterlySalesApp.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\QuarterlySalesApp13\QuarterlySalesApp\QuarterlySalesApp\obj\Debug\net6.0\QuarterlySalesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\QuarterlySalesApp13\QuarterlySalesApp\QuarterlySalesApp\obj\Debug\net6.0\QuarterlySalesApp.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\QuarterlySalesApp13\QuarterlySalesApp\QuarterlySalesApp\obj\Debug\net6.0\QuarterlySalesApp.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\QuarterlySalesApp13\QuarterlySalesApp\QuarterlySalesApp\obj\Debug\net6.0\QuarterlySalesApp.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\QuarterlySalesApp13\QuarterlySalesApp\QuarterlySalesApp\obj\Debug\net6.0\QuarterlySalesApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jpscott\Desktop\QuarterlySalesApp13\QuarterlySalesApp\QuarterlySalesApp\obj\Debug\net6.0\QuarterlySalesApp.RazorAssemblyInfo.cache
+C:\Users\jpscott\Desktop\QuarterlySalesApp13\QuarterlySalesApp\QuarterlySalesApp\obj\Debug\net6.0\QuarterlySalesApp.RazorAssemblyInfo.cs
